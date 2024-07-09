@@ -1,0 +1,86 @@
+    1  sudo apt update
+    2  sudo apt upgrade
+    3  sudo apt install neofetch
+    4  sudo apt install git
+    5  ls
+    6  mkdir folder1
+    7  ls
+    8  cd folder1
+    9  cd folder/
+   10  ls
+   11  nano biodata.txt
+   12  ls
+   13  cat biodata.txt
+   14  git -v
+   15  git --version
+   16  mkdir latihan-git
+   17  ls
+   18  cd latihan-git
+   19  sudo install gh
+   20  sudo apt install gh
+   21  gh --version
+   22  EXIT
+   23  exit
+   24  gh --version
+   25  exit
+   26  sudo apt update
+   27  sudo apt install gdebi-core wget
+   28  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   29  sudo gdebi google-chrome-stable_current_amd64.deb
+   30  google-chrome
+   31  sudo install gh
+   32  sudo apt install gh
+   33  gh auth login
+   34  gh auth status
+   35  gh authenticate login
+   36  run
+   37  gh auth login
+   38  gh auth status
+   39  google-chrome
+   40  gh auth status
+   41  gh auth login
+   42  gh auth status
+   43  google-chrome
+   44  gh auth status
+   45  google-chrome
+   46  ls
+   47  cd latihan-git/
+   48  ls
+   49  cd latihan-git/
+   50  mkdir latihan-git
+   51  ls
+   52  cd latihan-git//
+   53  git --version
+   54  gh --version
+   55  gh status
+   56  gh auth login
+   57  gh auth status
+   58  code .
+   59  ls
+   60  nano index.html
+   61  ls
+   62  code .
+   63  ls
+   64  cd ..
+   65  mkdir git-latihan
+   66  ls
+   67  cd git-latihan/
+   68  code .
+   69  git init
+   70  code .
+   71  goggle-chrome
+   72  google-chrome
+   73  git --version
+   74  sudo apt update
+   75  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   76  nvm --v
+   77  nvm install v14.15.4
+   78  node -v
+   79  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   80  ls
+   81  cd uas-komdat-24/
+   82  ls
+   83  code .
+   84  npm install
+   85  npm run start
+   86  history > command-history.txt
